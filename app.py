@@ -8,7 +8,7 @@ import tempfile
 import json
 
 
-api_key = 'AIzaSyD9z07z72PY4JLHRAl1NZQvLQWtiRgJJ3w'
+api_key = 'AIzaSyC9WS0oHMIaFCbgqxI-gYzNNwG9rjxRbIk'
 genai.configure(api_key=api_key)
 model = genai.GenerativeModel('gemini-2.5-flash')
 
